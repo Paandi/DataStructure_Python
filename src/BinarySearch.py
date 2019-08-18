@@ -1,3 +1,5 @@
+"""this program search data structure using binary search"""
+
 def binarySearch(alist, item):
     first = 0
     last = len(alist)-1
